@@ -1,0 +1,2 @@
+{'input': {'feature1': 0.5, 'feature2': 1.5, 'feature3': 2.5, 'feature4': 3.5}, 'prediction': 0}
+{'input': {'feature1': 0.3, 'feature2': 0.7, 'feature3': 1.2, 'feature4': 2.0}, 'prediction': 0}
