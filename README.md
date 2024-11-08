@@ -44,7 +44,7 @@ Each project is contained within its own directory for easy navigation:
 
 - **Assignment3_ApacheBeam/**  *(Project 3: Apache Beam Pipeline Demonstration)*
   - [`Apache-Beam.ipynb`](https://colab.research.google.com/drive/1Z1I-t6TANEKIAbbxWK1p0dFuicmHDX7e?usp=share_link)  - Apache Beam feature demonstration
-  - `Images/`
+  - `ApacheBeam_Images/`
 
 - `README.md`  - Project overview and structure
 - `video_script.md`  - Script for the video explanation
