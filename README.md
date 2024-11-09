@@ -25,7 +25,7 @@ This repository is organized into three standalone projects, each demonstrating 
 - **Project 3: Apache Beam Pipelines**  
   Comprehensive Apache Beam demonstration covering data transformation, streaming, and advanced data engineering workflows.
   
-
+Please find the Youtube video [link](https://youtu.be/Dii_OGr3vRk)
 
 ---
 
@@ -47,7 +47,6 @@ Each project is contained within its own directory for easy navigation:
   - `ApacheBeam_Images/`
 
 - `README.md`  - Project overview and structure
-- `video_script.md`  - Script for the video explanation
 
 
 ## Usage
